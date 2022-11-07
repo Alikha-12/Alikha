@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently taking **Python class**
 
-- ⚡ This is my coding journey with my American instructor
+- ⚡ This is my coding journey with my American instructor and apparently some random tutorial
 
 <p align="left">
 </p>
