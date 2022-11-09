@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Al</h1>
+<h1 align="center">Hi 👋, I'm Alyosha</h1>
 <h3 align="center">A passionate freshman from Southeast Asia</h3>
 
 - 🔭 I’m currently working on **keeping myself occupied**
