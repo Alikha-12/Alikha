@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alyosha</h1>
+<h1 align="center">Hi 👋, I'm Alikha</h1>
 <h3 align="center">Freshman from Southeast Asia</h3>
 
 - 🔭 I’m currently working on **my portfolio**
