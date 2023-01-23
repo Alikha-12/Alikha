@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **C++**
-
 - ⚡ Fun fact **I was typing out of boredom**
 
 <h3 align="center">Languages and Tools:</h3>
